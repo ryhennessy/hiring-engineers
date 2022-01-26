@@ -1,4 +1,6 @@
 If you want to apply as an engineer at [Datadog](http://datadog.com) you are in the right spot. 
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3dd28eda-9b0e-411e-8c85-4bd4f4a2b82b.svg?orgId=762678537011)](https://app.soluble.cloud/repos/details/github.com/ryhennessy/hiring-engineers?orgId=762678537011)  
 <a href="http://www.flickr.com/photos/alq666/10125225186/" title="The view from our roofdeck">
 <img src="http://farm6.staticflickr.com/5497/10125225186_825bfdb929.jpg" width="500" height="332" alt="_DSC4652"></a>
 
